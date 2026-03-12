@@ -109,7 +109,7 @@ Organized by **Srinivas University Institute of Engineering and Technology, Mang
 
 ## 👩‍💻 Authors
 
-**Tejashwini Havanur**  
+**Tejashwini Havanur** 
 **Suhani**
 
 Department of Computer Science and Engineering  
